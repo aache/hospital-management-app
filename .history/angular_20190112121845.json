@@ -23,18 +23,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "src/sb-admin/sb-admin-2.css",
-              "src/sb-admin/bootstrap-social.css",
-              "src/sb-admin/font-awesome.css",
-              "src/sb-admin/bootstrap-classic.css",
-              "src/metisMenu/metisMenu.css"
+              "src/styles.css"
             ],
-            "scripts": [
-              "src/sb-admin-js/jquery.js",
-              "src/metisMenu/metisMenu.js",
-              "src/sb-admin-js/bootstrap-classic.js"
-            ]
+            "scripts": []
           },
           "configurations": {
             "production": {

@@ -1,0 +1,42 @@
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+            box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+  }
+  .panel-primary {
+    border-color: #f80c0c;
+  }
+
+  .panel-primary > .panel-heading {
+    color: #fff;
+    background-color: #f80c0c;
+    border-color: #f80c0c;
+  }
+
+
+
+
+
+
+
+
+
+.col-xs-3{
+    padding-left: 30px;
+    padding-top: 2px;
+  }
+  .huge {
+    font-size: 40px;
+  }
+
+  .cmt{
+    padding-left: 60px;
+  }
+
+  .pull-left{
+    padding-left: 100px;    
+  }
+ 
