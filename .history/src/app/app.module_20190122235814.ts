@@ -8,7 +8,7 @@ import { LoginComponent } from './login/login.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { VerticalNavigationComponent } from './vertical-navigation/vertical-navigation.component';
 
-import { HttpClientModule } from '@angular/common/http';
+
 import { LoginAuthService } from './services/login/login-auth.service';
 import { AppSettings } from './app-settings';
 import { PrimaryComponent } from './dashboard/primary/primary.component';
@@ -38,7 +38,6 @@ import { AddUpdateComponent } from './master/patient/add-update/add-update.compo
     AddUpdateComponent
   ],
   imports: [
-    HttpClientModule,
     BrowserModule,
     AppRoutingModule,
     ReactiveFormsModule
